@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html, body, head{
+            background: yellow;
+        }
+        header nav{
+            padding: 10px;
+            background-color: orange;
+            color: white;
+            display: flex;
+            justify-content: space-around;
+        }
+        #one:hover{
+            transition: 1s;
+            background: aqua;
+        }
+        #two:hover{
+            transition: 1s;
+            background: aqua;
+        }
+        #one, #two{
+            background-color: black;
+            padding: 3px;
+        }
+        #fblock{
+            background-color: black;
+            color: white;
+            width: 25%;
+            height: 100%;
+            text-align: center;
+            margin-top: 5px;
+        }
+        #sblock{
+            background-color: black;
+            color: white;
+            width: 50%;
+            height: 100%;
+            text-align: center;
+            margin-top: 5px;
+            margin-left: 5px;
+        }
+        #hblock{
+            background-color: black;
+            color: white;
+            width: 25%;
+            height: 100%;
+            text-align: center;
+            margin-top: 5px;
+            margin-left: 5px;
+        }
+        main a{
+            display: flex;
+            justify-content: space-around;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div id="one">Главная</div>
+            <div id ="two">Информация</div>
+        </nav>
+    </header>
+    <main>
+        <a>
+            <div id="fblock">Hello</div>
+            <div id="sblock">Hello</div>
+            <div id="hblock">Hello</div>
+        </a>
+    </main>
+</body>
+</html>
