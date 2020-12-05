@@ -1,7 +1,7 @@
 # CS:GO
 ![alt text][logo]
 
-[logo]: https://i.ytimg.com/vi/k043W5T-xgE/maxresdefault.jpg "GOGO"
+[logo]: https://i.ytimg.com/vi/k043W5T-xgE/maxresdefault.jpg
 ### Цель сайта:
 ##### Приманить как можно больше аудитории...
 ### Сайт будет выполнен в стиле:
@@ -20,4 +20,4 @@
 ##### Представляющие собой интерфейс игры, какие режимы в игре есть и т.д.
 ![alt text][gogo]
 
-[gogo] https://sun9-67.userapi.com/c824409/v824409711/16e854/Fmb98eWGTzE.jpg "Logo"
+[gogo]: https://sun9-67.userapi.com/c824409/v824409711/16e854/Fmb98eWGTzE.jpg
