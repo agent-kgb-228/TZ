@@ -6,22 +6,24 @@
     <title>Document</title>
     <style>
         html, body, head{
-            background: yellow;
+            background-color: orange;
         }
         header nav{
             padding: 10px;
-            background-color: orange;
+            background-color: black;
             color: white;
             display: flex;
             justify-content: space-around;
         }
         #one:hover{
             transition: 1s;
-            background: aqua;
+            background-color: aqua;
+            color: black
         }
         #two:hover{
             transition: 1s;
-            background: aqua;
+            background-color: aqua;
+            color: black;
         }
         #one, #two{
             background-color: black;
@@ -57,21 +59,35 @@
             display: flex;
             justify-content: space-around;
         }
+        footer{
+            background-color: black;
+            color: white;
+            width: 100%;
+            margin-top: 5px;
+            text-align: center;
+            padding: 7px
+        }
+        footer:hover{
+            transition: 1s;
+            background-color: aqua;
+            color: black
+        }
     </style>
 </head>
 <body>
     <header>
         <nav>
-            <div id="one">Главная</div>
-            <div id ="two">Информация</div>
+            <div id = "one"><a href="#">Главная</a></div>
+            <div id = "two"><a href="#">Информация</a></div>
         </nav>
     </header>
     <main>
         <a>
             <div id="fblock">Hello</div>
-            <div id="sblock">Hello</div>
+            <div id="sblock">d</div>
             <div id="hblock">Hello</div>
         </a>
     </main>
+    <footer> Сайт защищён </footer>
 </body>
 </html>
