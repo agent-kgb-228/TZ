@@ -21,3 +21,7 @@
 ![alt text][gogo]
 
 [gogo]: https://sun9-67.userapi.com/c824409/v824409711/16e854/Fmb98eWGTzE.jpg
+
+![alt text][jojo]
+
+[jojo]: https://otvet.imgsmail.ru/download/247125327_fb788293314f5e680976eab6a788f569_800.png
